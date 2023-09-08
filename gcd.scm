@@ -5,5 +5,5 @@
     (gcd (b (mod b a)))))
 
     (define input (read-line))
-    ()
+    
     (display (gcd input)) 
